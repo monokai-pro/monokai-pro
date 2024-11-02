@@ -1,0 +1,3 @@
+[submodule "sublime-text"]
+	path = themes/sublime-text
+	url = https://github.com/monokai-pro/sublime-text
