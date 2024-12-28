@@ -4,3 +4,6 @@
 [submodule "themes/vscode"]
 	path = themes/vscode
 	url = https://github.com/monokai-pro/vscode
+[submodule "themes/jetbrains"]
+	path = themes/jetbrains
+	url = https://github.com/monokai-pro/jetbrains
