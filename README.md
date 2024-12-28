@@ -7,5 +7,6 @@ Monokai Pro is available for multiple editors. The official supported themes are
 
 - [Monokai Pro for Sublime Text](https://github.com/monokai-pro/sublime-text)
 - [Monokai Pro for Visual Studio Code](https://github.com/monokai-pro/vscode)
+- [Monokai Pro for Jetbrains](https://github.com/monokai-pro/jetbrains)
 
 Read more about Monokai Pro on the [Monokai Pro website](https://monokai.pro)
