@@ -10,3 +10,6 @@
 [submodule "themes/zed"]
 	path = themes/zed
 	url = https://github.com/monokai-pro/zed
+[submodule "themes/xfce4-terminal"]
+	path = themes/xfce4-terminal
+	url = https://github.com/monokai-pro/xfce4-terminal
