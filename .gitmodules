@@ -13,3 +13,6 @@
 [submodule "themes/xfce4-terminal"]
 	path = themes/xfce4-terminal
 	url = https://github.com/monokai-pro/xfce4-terminal
+[submodule "themes/xed"]
+	path = themes/xed
+	url = https://github.com/monokai-pro/xed
