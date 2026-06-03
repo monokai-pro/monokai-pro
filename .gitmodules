@@ -19,3 +19,6 @@
 [submodule "themes/opencode"]
 	path = themes/opencode
 	url = https://github.com/monokai-pro/opencode.git
+[submodule "themes/mainwp"]
+	path = themes/mainwp
+	url = https://github.com/monokai-pro/mainwp
