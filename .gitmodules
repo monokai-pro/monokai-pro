@@ -22,3 +22,6 @@
 [submodule "themes/mainwp"]
 	path = themes/mainwp
 	url = https://github.com/monokai-pro/mainwp
+[submodule "themes/inkdrop"]
+	path = themes/inkdrop
+	url = https://github.com/monokai-pro/inkdrop
