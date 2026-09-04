@@ -25,3 +25,12 @@
 [submodule "themes/inkdrop"]
 	path = themes/inkdrop
 	url = https://github.com/monokai-pro/inkdrop
+[submodule "themes/konsole"]
+	path = themes/konsole
+	url = https://github.com/monokai-pro/konsole
+[submodule "themes/kate"]
+	path = themes/kate
+	url = https://github.com/monokai-pro/kate
+[submodule "themes/notepad-plus-plus"]
+	path = themes/notepad-plus-plus
+	url = https://github.com/monokai-pro/notepad-plus-plus
