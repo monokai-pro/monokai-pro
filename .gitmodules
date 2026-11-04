@@ -34,3 +34,6 @@
 [submodule "themes/notepad-plus-plus"]
 	path = themes/notepad-plus-plus
 	url = https://github.com/monokai-pro/notepad-plus-plus
+[submodule "themes/coteditor"]
+	path = themes/coteditor
+	url = https://github.com/monokai-pro/coteditor
